@@ -1,0 +1,9 @@
+{
+  "name": "minecrafttools",
+  "author": "Halalcat",
+  "version": "01.01.1",
+  "startPoint": "Main.cs",
+  "description": "brings minecraft tools to worldbox",
+  "iconPath": "icon.png",
+  "targetGameBuild": 558
+}
